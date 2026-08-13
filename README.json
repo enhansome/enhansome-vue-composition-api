@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T09:27:26Z",
+            "last_commit": "2026-08-13T08:33:35Z",
             "owner": "vuejs",
             "repo": "core",
-            "stars": 54228
+            "stars": 54231
           }
         },
         {
@@ -194,7 +194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:16:12.714Z",
+    "last_updated": "2026-08-13T10:31:22.970Z",
     "original_repository": "kefranabg/awesome-vue-composition-api",
     "original_repository_sha": "e9097e1d51f77deee4ec36621e95e7d2185151d9",
     "enhanced_repository": "enhansome/enhansome-vue-composition-api",
