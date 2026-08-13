@@ -1,0 +1,204 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pre-Alpha version of Vue3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T09:27:26Z",
+            "owner": "vuejs",
+            "repo": "core",
+            "stars": 54228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue2 composition API plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-15T11:08:15Z",
+            "owner": "vuejs",
+            "repo": "composition-api",
+            "stars": 4181
+          }
+        }
+      ],
+      "title": "🚀 Try it now !"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Composition API demos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-03-12T08:32:52Z",
+            "owner": "LinusBorg",
+            "repo": "composition-api-demos",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue3Todo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-01-04T07:27:50Z",
+            "owner": "ShetlandJ",
+            "repo": "Vue3Todo",
+            "stars": 218
+          }
+        }
+      ],
+      "title": "🎓 Learn composition API with examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vue-composable",
+          "description": "Vue composition-api composable components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-03T05:13:30Z",
+            "owner": "pikax",
+            "repo": "vue-composable",
+            "stars": 1178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-use-web",
+          "description": "🕸 Web APIs implemented as Vue.js composition functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T04:43:36Z",
+            "owner": "Tarektouati",
+            "repo": "vue-use-web",
+            "stars": 742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vueuse",
+          "description": "🧰 Collection of essential Vue Composition API utils works for Vue 2 and 3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-18T03:36:49Z",
+            "owner": "antfu",
+            "repo": "vueuse",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-use-form",
+          "description": "✅ A Vue.js composition API function to validate forms",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-03-19T23:54:21Z",
+            "owner": "logaretm",
+            "repo": "vue-use-form",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-compose-promise",
+          "description": "💝 Promises using vue composition API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-11-16T22:44:39Z",
+            "owner": "posva",
+            "repo": "vue-compose-promise",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-condition-watcher",
+          "description": "🕶 Vue Composition API for automatic fetch data when condition has been changed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-07-17T02:12:13Z",
+            "owner": "runkids",
+            "repo": "vue-condition-watcher",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-use-kit",
+          "description": "🛠️ Useful collection of Vue composition API functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-07T23:33:09Z",
+            "owner": "microcipcip",
+            "repo": "vue-use-kit",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-use",
+          "description": "✨ Use magic Vue Composition APIs to provide a lot of reusable logic, such as form, table and loading, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-07T10:45:16Z",
+            "owner": "openfext",
+            "repo": "vue-use",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-composition-toolkit",
+          "description": "💚 Vue3 Composition-API toolkit",
+          "children": []
+        }
+      ],
+      "title": "✨ Composition API functions"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:16:12.714Z",
+    "original_repository": "kefranabg/awesome-vue-composition-api",
+    "original_repository_sha": "e9097e1d51f77deee4ec36621e95e7d2185151d9",
+    "enhanced_repository": "enhansome/enhansome-vue-composition-api",
+    "enhanced_repository_description": null,
+    "title": "Awesome vue composition api with stars"
+  }
+}
