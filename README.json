@@ -12,10 +12,10 @@
             "archived": false,
             "id": 137078487,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T08:52:39Z",
+            "last_commit": "2026-08-20T08:59:08Z",
             "owner": "vuejs",
             "repo": "core",
-            "stars": 54223
+            "stars": 54220
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-08-15T11:08:15Z",
             "owner": "vuejs",
             "repo": "composition-api",
-            "stars": 4181
+            "stars": 4180
           }
         }
       ],
@@ -147,7 +147,7 @@
             "last_commit": "2020-11-16T22:44:39Z",
             "owner": "posva",
             "repo": "vue-compose-promise",
-            "stars": 75
+            "stars": 73
           }
         },
         {
@@ -200,7 +200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:59:12.645Z",
+    "last_updated": "2026-08-20T09:53:08.138Z",
     "original_repository": "kefranabg/awesome-vue-composition-api",
     "original_repository_id": 218592759,
     "original_repository_sha": "e9097e1d51f77deee4ec36621e95e7d2185151d9",
