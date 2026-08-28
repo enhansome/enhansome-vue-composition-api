@@ -12,11 +12,12 @@
             "archived": false,
             "id": 137078487,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:44:27Z",
+            "last_commit": "2026-08-28T11:46:37Z",
             "owner": "vuejs",
             "repo": "core",
-            "stars": 54257
-          }
+            "stars": 54259
+          },
+          "first_seen": "2026-08-28T20:56:30.707Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2023-08-15T11:08:15Z",
             "owner": "vuejs",
             "repo": "composition-api",
-            "stars": 4182
-          }
+            "stars": 4181
+          },
+          "first_seen": "2026-08-28T20:56:30.707Z"
         }
       ],
       "title": "🚀 Try it now !"
@@ -52,7 +54,8 @@
             "owner": "LinusBorg",
             "repo": "composition-api-demos",
             "stars": 507
-          }
+          },
+          "first_seen": "2026-08-28T20:56:30.707Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "ShetlandJ",
             "repo": "Vue3Todo",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T20:56:30.707Z"
         }
       ],
       "title": "🎓 Learn composition API with examples"
@@ -88,7 +92,8 @@
             "owner": "pikax",
             "repo": "vue-composable",
             "stars": 1178
-          }
+          },
+          "first_seen": "2026-08-28T20:56:30.707Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "Tarektouati",
             "repo": "vue-use-web",
             "stars": 742
-          }
+          },
+          "first_seen": "2026-08-28T20:56:30.707Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "antfu",
             "repo": "vueuse",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T20:56:30.707Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "logaretm",
             "repo": "vue-use-form",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T20:56:30.707Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "posva",
             "repo": "vue-compose-promise",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T20:56:30.707Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "runkids",
             "repo": "vue-condition-watcher",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T20:56:30.707Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "microcipcip",
             "repo": "vue-use-kit",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T20:56:30.707Z"
         },
         {
           "node_type": "item",
@@ -193,14 +204,15 @@
             "owner": "openfext",
             "repo": "vue-use",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T20:56:30.707Z"
         }
       ],
       "title": "✨ Composition API functions"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:52:54.664Z",
+    "last_updated": "2026-08-28T20:56:30.707Z",
     "original_repository_info": {
       "archived": false,
       "id": 218592759,
