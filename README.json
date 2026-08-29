@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+            "homepage": "https://vuejs.org/",
             "id": 137078487,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:46:37Z",
+            "open_issues": 900,
             "owner": "vuejs",
             "repo": "core",
-            "stars": 54259
+            "stars": 54259,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Composition API plugin for Vue 2",
+            "homepage": "https://composition-api.vuejs.org/",
             "id": 193669763,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-15T11:08:15Z",
+            "open_issues": 0,
             "owner": "vuejs",
             "repo": "composition-api",
-            "stars": 4181
+            "stars": 4181,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
         }
@@ -48,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Vue.js app demonstarting various use cases for the new composition API ",
+            "homepage": null,
             "id": 204331717,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-12T08:32:52Z",
+            "open_issues": 0,
             "owner": "LinusBorg",
             "repo": "composition-api-demos",
-            "stars": 507
+            "stars": 507,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
         },
@@ -64,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[OUTDATED IN 2022!] Vue 3 Composition API examples!",
+            "homepage": null,
             "id": 202880816,
             "language": "Vue",
+            "license": null,
             "last_commit": "2023-01-04T07:27:50Z",
+            "open_issues": 25,
             "owner": "ShetlandJ",
             "repo": "Vue3Todo",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
         }
@@ -86,12 +106,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables",
+            "homepage": "https://pikax.me/vue-composable/",
             "id": 216648976,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-02-03T05:13:30Z",
+            "open_issues": 24,
             "owner": "pikax",
             "repo": "vue-composable",
-            "stars": 1178
+            "stars": 1178,
+            "topics": [
+              "breakpoint",
+              "composition-api",
+              "hooks",
+              "pagination",
+              "tailwindcss",
+              "typescript",
+              "utility-library",
+              "validation",
+              "vue",
+              "vue-next",
+              "vue3",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
         },
@@ -102,12 +140,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕸 Web APIs implemented as Vue.js composition functions",
+            "homepage": "https://tarektouati.github.io/vue-use-web/",
             "id": 208273330,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T04:43:36Z",
+            "open_issues": 57,
             "owner": "Tarektouati",
             "repo": "vue-use-web",
-            "stars": 742
+            "stars": 742,
+            "topics": [
+              "composition-api",
+              "essential",
+              "hooks",
+              "utility-library",
+              "vue",
+              "vue-next",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
         },
@@ -118,12 +169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of essential Vue Composition Utilities for Vue 2 and 3",
+            "homepage": "https://vueuse.org",
             "id": 425119499,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-10-18T03:36:49Z",
+            "open_issues": 0,
             "owner": "antfu",
             "repo": "vueuse",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
         },
@@ -134,12 +190,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "✅ A Vue.js composition API function to validate forms",
+            "homepage": null,
             "id": 204069332,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-03-19T23:54:21Z",
+            "open_issues": 2,
             "owner": "logaretm",
             "repo": "vue-use-form",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "form",
+              "form-validation",
+              "forms",
+              "validation",
+              "validation-library",
+              "vee-validate",
+              "vue",
+              "vue-composition-api",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
         },
@@ -150,12 +221,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💝 Promises using vue composition api",
+            "homepage": "https://codesandbox.io/s/vue-compose-promise-example-toum7",
             "id": 210888758,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-11-16T22:44:39Z",
+            "open_issues": 0,
             "owner": "posva",
             "repo": "vue-compose-promise",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "composition",
+              "promise",
+              "vue",
+              "vue-composition-api",
+              "vue-function-api"
+            ]
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
         },
@@ -166,12 +248,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕶 Data fetching with Vue Composition API. Power of conditions to easily control and sync to the URL query string.",
+            "homepage": "https://github.com/runkids/vue-condition-watcher",
             "id": 264894779,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-17T02:12:13Z",
+            "open_issues": 2,
             "owner": "runkids",
             "repo": "vue-condition-watcher",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "conditions",
+              "data-fetching",
+              "fetch",
+              "query-string",
+              "vue",
+              "vue-condition-watcher",
+              "vue-router",
+              "vue-router-sync",
+              "watcher"
+            ]
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
         },
@@ -182,12 +279,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠️Useful collection of Vue composition API functions https://microcipcip.github.io/vue-use-kit/",
+            "homepage": null,
             "id": 239099371,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-07T23:33:09Z",
+            "open_issues": 8,
             "owner": "microcipcip",
             "repo": "vue-use-kit",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "vue",
+              "vue-composition-api",
+              "vue-function-api",
+              "vue-hooks",
+              "vue-use",
+              "vue-use-hooks"
+            ]
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
         },
@@ -198,12 +307,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Vue Composition API Right Now (WIP)",
+            "homepage": "https://openfext.github.io/vue-use",
             "id": 250976010,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-06-07T10:45:16Z",
+            "open_issues": 1,
             "owner": "openfext",
             "repo": "vue-use",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "composition-api",
+              "hooks",
+              "vue-composition-api",
+              "vue-hooks",
+              "vue-use",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
         }
@@ -212,15 +333,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:56:30.707Z",
+    "last_updated": "2026-08-29T04:48:07.959Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🚀 A curated list of awesome things related to vue composition api",
+      "homepage": null,
       "id": 218592759,
       "language": null,
+      "license": "MIT",
       "last_commit": "2021-04-26T04:01:39Z",
+      "open_issues": 4,
       "owner": "kefranabg",
       "repo": "awesome-vue-composition-api",
-      "stars": 346
+      "stars": 346,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "vue",
+        "vue-composition-api",
+        "vue3"
+      ]
     },
     "original_repository_sha": "e9097e1d51f77deee4ec36621e95e7d2185151d9",
     "enhanced_repository": "enhansome/enhansome-vue-composition-api",
