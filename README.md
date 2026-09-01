@@ -14,7 +14,7 @@
 
 ## 🚀 Try it now !
 
-* [Pre-Alpha version of Vue3](https://github.com/vuejs/vue-next) ⭐ 54,282 | 🐛 900 | 🌐 TypeScript | 📅 2026-08-31
+* [Pre-Alpha version of Vue3](https://github.com/vuejs/vue-next) ⭐ 54,287 | 🐛 900 | 🌐 TypeScript | 📅 2026-09-01
 * [Vue2 composition API plugin](https://github.com/vuejs/composition-api) ⭐ 4,181 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-15
 
 ## 📺 Videos
@@ -43,7 +43,7 @@
 
 ## ✨ Composition API functions
 
-* [vue-composable](https://github.com/pikax/vue-composable) ⭐ 1,179 | 🐛 24 | 🌐 TypeScript | 📅 2023-02-03 - Vue composition-api composable components
+* [vue-composable](https://github.com/pikax/vue-composable) ⭐ 1,178 | 🐛 24 | 🌐 TypeScript | 📅 2023-02-03 - Vue composition-api composable components
 * [vue-use-web](https://github.com/logaretm/vue-use-web) ⭐ 743 | 🐛 57 | 🌐 TypeScript | 📅 2023-03-04 - 🕸 Web APIs implemented as Vue.js composition functions
 * [vueuse](https://github.com/antfu/vueuse) ⭐ 149 | 🐛 0 | 📅 2021-10-18 - 🧰 Collection of essential Vue Composition API utils works for Vue 2 and 3
 * [vue-use-form](https://github.com/logaretm/vue-use-form) ⚠️ Archived - ✅ A Vue.js composition API function to validate forms
@@ -59,4 +59,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
