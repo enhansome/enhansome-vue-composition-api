@@ -15,11 +15,11 @@
             "id": 137078487,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T09:49:21Z",
-            "open_issues": 907,
+            "last_commit": "2026-09-07T09:02:54Z",
+            "open_issues": 900,
             "owner": "vuejs",
             "repo": "core",
-            "stars": 54326,
+            "stars": 54345,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
@@ -139,7 +139,7 @@
           "description": "🕸 Web APIs implemented as Vue.js composition functions",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "🕸 Web APIs implemented as Vue.js composition functions",
             "homepage": "https://tarektouati.github.io/vue-use-web/",
             "id": 208273330,
@@ -333,7 +333,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:55:20.062Z",
+    "last_updated": "2026-09-07T15:06:13.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 A curated list of awesome things related to vue composition api",
