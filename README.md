@@ -14,7 +14,7 @@
 
 ## 🚀 Try it now !
 
-* [Pre-Alpha version of Vue3](https://github.com/vuejs/vue-next) ⭐ 54,345 | 🐛 904 | 🌐 TypeScript | 📅 2026-09-08
+* [Pre-Alpha version of Vue3](https://github.com/vuejs/vue-next) ⭐ 54,352 | 🐛 902 | 🌐 TypeScript | 📅 2026-09-09
 * [Vue2 composition API plugin](https://github.com/vuejs/composition-api) ⭐ 4,179 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-15
 
 ## 📺 Videos
@@ -59,4 +59,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
