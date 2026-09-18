@@ -14,8 +14,8 @@
 
 ## 🚀 Try it now !
 
-* [Pre-Alpha version of Vue3](https://github.com/vuejs/vue-next) ⭐ 54,414 | 🐛 897 | 🌐 TypeScript | 📅 2026-09-17
-* [Vue2 composition API plugin](https://github.com/vuejs/composition-api) ⭐ 4,179 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-15
+* [Pre-Alpha version of Vue3](https://github.com/vuejs/vue-next) ⭐ 54,408 | 🐛 903 | 🌐 TypeScript | 📅 2026-09-18
+* [Vue2 composition API plugin](https://github.com/vuejs/composition-api) ⭐ 4,180 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-15
 
 ## 📺 Videos
 
@@ -34,7 +34,7 @@
 ## 📄 RFC
 
 * [Composition API RFC site](https://vue-composition-api-rfc.netlify.com/)
-* [Composition API RFC discussion](https://github.com/vuejs/rfcs/pull/78) ⭐ 4,938 | 🐛 63 | 📅 2025-01-08
+* [Composition API RFC discussion](https://github.com/vuejs/rfcs/pull/78) ⭐ 4,939 | 🐛 63 | 📅 2025-01-08
 
 ## 🎓 Learn composition API with examples
 
@@ -59,4 +59,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
