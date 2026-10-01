@@ -15,11 +15,11 @@
             "id": 137078487,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T08:57:51Z",
-            "open_issues": 911,
+            "last_commit": "2026-10-01T01:42:11Z",
+            "open_issues": 925,
             "owner": "vuejs",
             "repo": "core",
-            "stars": 54465,
+            "stars": 54472,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
@@ -333,7 +333,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T15:58:17.166Z",
+    "last_updated": "2026-10-01T16:31:13.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 A curated list of awesome things related to vue composition api",
