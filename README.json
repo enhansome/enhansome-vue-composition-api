@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Pre-Alpha version of Vue3",
-          "description": null,
+          "description": "vuejs/core",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 137078487,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:26:55Z",
-            "open_issues": 932,
+            "last_commit": "2026-10-03T03:06:43Z",
+            "open_issues": 935,
             "owner": "vuejs",
             "repo": "core",
-            "stars": 54473,
+            "stars": 54479,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Vue2 composition API plugin",
-          "description": null,
+          "description": "vuejs/composition-api",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "Composition API demos",
-          "description": null,
+          "description": "LinusBorg/composition-api-demos",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "Vue3Todo",
-          "description": null,
+          "description": "ShetlandJ/Vue3Todo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -333,7 +333,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:52:31.419Z",
+    "last_updated": "2026-10-03T05:13:10.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 A curated list of awesome things related to vue composition api",
