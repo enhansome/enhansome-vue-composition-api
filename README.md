@@ -14,7 +14,7 @@
 
 ## 🚀 Try it now !
 
-* [Pre-Alpha version of Vue3](https://github.com/vuejs/vue-next) ⭐ 54,636 | 🐛 906 | 🌐 TypeScript | 📅 2026-10-12
+* [Pre-Alpha version of Vue3](https://github.com/vuejs/vue-next) ⭐ 54,680 | 🐛 893 | 🌐 TypeScript | 📅 2026-10-13
 * [Vue2 composition API plugin](https://github.com/vuejs/composition-api) ⭐ 4,181 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-15
 
 ## 📺 Videos
@@ -48,7 +48,7 @@
 * [vueuse](https://github.com/antfu/vueuse) ⭐ 148 | 🐛 0 | 📅 2021-10-18 - 🧰 Collection of essential Vue Composition API utils works for Vue 2 and 3
 * [vue-use-form](https://github.com/logaretm/vue-use-form) ⚠️ Archived - ✅ A Vue.js composition API function to validate forms
 * [vue-compose-promise](https://github.com/posva/vue-compose-promise) ⭐ 73 | 🐛 0 | 🌐 TypeScript | 📅 2020-11-16 - 💝 Promises using vue composition API
-* [vue-condition-watcher](https://github.com/runkids/vue-condition-watcher) ⭐ 48 | 🐛 2 | 🌐 TypeScript | 📅 2025-07-17 - 🕶 Vue Composition API for automatic fetch data when condition has been changed
+* [vue-condition-watcher](https://github.com/runkids/vue-condition-watcher) ⭐ 49 | 🐛 2 | 🌐 TypeScript | 📅 2025-07-17 - 🕶 Vue Composition API for automatic fetch data when condition has been changed
 * [vue-use-kit](https://github.com/microcipcip/vue-use-kit) ⭐ 46 | 🐛 8 | 🌐 TypeScript | 📅 2023-05-07 - 🛠️ Useful collection of Vue composition API functions
 * [vue-use](https://github.com/openfext/vue-use) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2020-06-07 - ✨ Use magic Vue Composition APIs to provide a lot of reusable logic, such as form, table and loading, etc.
 * [vue-composition-toolkit](https://github.com/shuidi-fed/vue-composition-toolkit) - 💚 Vue3 Composition-API toolkit
@@ -59,4 +59,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
