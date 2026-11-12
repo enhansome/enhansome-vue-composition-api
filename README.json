@@ -15,11 +15,11 @@
             "id": 137078487,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T08:27:15Z",
-            "open_issues": 960,
+            "last_commit": "2026-11-12T08:47:08Z",
+            "open_issues": 963,
             "owner": "vuejs",
             "repo": "core",
-            "stars": 54957,
+            "stars": 55011,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:30.707Z"
@@ -257,7 +257,7 @@
             "open_issues": 2,
             "owner": "runkids",
             "repo": "vue-condition-watcher",
-            "stars": 49,
+            "stars": 48,
             "topics": [
               "conditions",
               "data-fetching",
@@ -333,7 +333,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:15:25.230Z",
+    "last_updated": "2026-11-12T17:38:35.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "🚀 A curated list of awesome things related to vue composition api",
